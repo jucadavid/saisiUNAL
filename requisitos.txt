@@ -1,0 +1,33 @@
+Lenguajes: 
+    - Backend: Js (Node.js)
+    - FrontEnd: HTML, CSS, Js
+    - Bases de datos: Indefinido (Jose pregunta por la base de datos xd)
+    - Control de versiones: Git
+
+Requisitos:
+    - INDISPENSABLE ( Hacer un jueguito pa la página )
+    - Calcular PAPA (Manera complicada):
+        - Conocer número de créditos
+        - Conocer nota de la materia
+        - Conocer estos datos para todas las materias vistas en todos los semestres
+    - Login:
+        - Registro de nuevos usuarios
+        - Ingreso de usuarios registrados
+            - Pedir nombre de usuario
+            - Pedir contraseña
+            - Pedir plan de estudios
+            - Al ingresar se devuelven los datos del estudiante registrado
+    - Calcular PAPPI:
+        - Conocer número de créditos
+        - Conocer nota de la materia
+        - Conocer materias canceladas ( Se pone 0 como nota )
+        - Estos datos solo se necesitan del último semestre xd
+    - Calcular PA:
+        - Conocer número de créditos
+        - Conocer nota de la materia
+        - Conocer estos datos para todas las materias vistas en todos los semestres
+        - Solo aplilcan las materias aprobadas
+    - Calcular porcentaje de avanze:
+        - Conocer número de créditos cursados
+        - Conocer número de créditos totales del pregrado
+
