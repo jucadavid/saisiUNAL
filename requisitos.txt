@@ -30,5 +30,3 @@ Requisitos:
     - Calcular porcentaje de avanze:
         - Conocer número de créditos cursados
         - Conocer número de créditos totales del pregrado
-jose lok
-
