@@ -6,7 +6,7 @@ Lenguajes:
 
 Requisitos:
     - INDISPENSABLE ( Hacer un jueguito pa la página )
-    - Calcular PAPA (Manera complicada):
+    - Calcular PAPA:
         - Conocer número de créditos
         - Conocer nota de la materia
         - Conocer estos datos para todas las materias vistas en todos los semestres
