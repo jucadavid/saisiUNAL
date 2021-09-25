@@ -1,0 +1,31 @@
+{
+  "name": "saisiunal",
+  "version": "1.0.0",
+  "description": "Sistema de acompañamiento para estudiantes de la Universidad Nacional de Colombia",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jucadavid/saisiUNAL.git"
+  },
+  "keywords": [
+    "saisi"
+  ],
+  "author": [
+    "Diego Muñoz",
+    "Jose Fernando ...",
+    "Jerónimo Ledesma",
+    "Juan Miguel Cadavid"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jucadavid/saisiUNAL/issues"
+  },
+  "homepage": "https://github.com/jucadavid/saisiUNAL#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.7"
+  }
+}
